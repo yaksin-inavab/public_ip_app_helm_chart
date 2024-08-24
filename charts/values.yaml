@@ -7,8 +7,6 @@ replicaCount: 3
 image:
   repository: yaksininavab/my-flask-app
   tag: latest
-  # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
 
 imagePullSecrets: []
 nameOverride: ""
