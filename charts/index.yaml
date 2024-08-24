@@ -1,6 +1,14 @@
 apiVersion: v1
 entries:
   my-flask-app:
-    - apiVersion: v2
-      name: my-flask-app
-      version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-24T21:12:54.3676198+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 02f8c10dbf57a7c34c88f3670452b5f641eb7d2d6639188e48a55512ad25e38a
+    name: my-flask-app
+    type: application
+    urls:
+    - https://yaksin-inavab.github.io/public_ip_app_helm_chart/charts/my-flask-app-0.1.0.tgz/my-flask-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-24T21:12:54.3544388+05:30"
