@@ -9,6 +9,6 @@ entries:
     name: my-flask-app
     type: application
     urls:
-    - https://yaksin-inavab.github.io/public_ip_app_helm_chart/charts/my-flask-app-0.1.0.tgz/my-flask-app-0.1.0.tgz
+    - https://yaksin-inavab.github.io/public_ip_app_helm_chart/charts/my-flask-app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-08-24T21:12:54.3544388+05:30"
