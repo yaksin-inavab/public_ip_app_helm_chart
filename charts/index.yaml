@@ -4,5 +4,3 @@ entries:
     - apiVersion: v2
       name: my-flask-app
       version: 0.1.0
-      urls:
-        - "https://yaksin-inavab.github.io/public_ip_app_helm_chart/charts/public-ip-app-helmchart/my-flask-app-0.1.0.tgz"
